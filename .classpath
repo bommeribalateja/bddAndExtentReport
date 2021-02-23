@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/Desktop/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/CucumberJars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/CucumberJars/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/CucumberJars/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/CucumberJars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/CucumberJars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/CucumberJars/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/Documents/balateja/CucumberJars/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/Documents/balateja/CucumberJars/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/Documents/balateja/CucumberJars/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/Documents/balateja/CucumberJars/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/Documents/balateja/CucumberJars/cucumber-extentsreport-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/Documents/balateja/CucumberJars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/Documents/balateja/CucumberJars/extentreports-3.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Praveen .LAPTOP-H9D816V6/Documents/balateja/CucumberJars/bson-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
